@@ -10,7 +10,7 @@
 
 ## AKUN MEDSOS SAYA
 [![Instagram](https://img.shields.io/badge/Instagram-@nakulasyafa_-E4405F?style=flat&logo=instagram)](https://instagram.com/nakulasyafa_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nklasyfa-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nklasyfa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nklasyfa-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nakula-saputra)
 
 ## 📫 Hubungi Saya
 [![Gmail](https://img.shields.io/badge/Email-nakulasaputra08%40gmail.com-D14836?style=flat&logo=gmail)](mailto: nakulasaputra08@gmail.com)
