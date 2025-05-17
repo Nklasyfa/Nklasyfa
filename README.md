@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Nklasyfa!
+# 👋 Halo, Kenalin Saya Nakula, Progamer Pemula!
 
 [![GitHub Activity Snake](https://github.com/Nklasyfa/Nklasyfa/blob/output/github-contribution-grid-snake.svg)](https://github.com/Nklasyfa)
 
@@ -9,7 +9,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nklasyfa&theme=github-dark&area=true&hide_border=true)](https://github.com/Nklasyfa)
 
 ## AKUN MEDSOS SAYA
-[![Instagram](https://img.shields.io/badge/Instagram-@nklasyfa-E4405F?style=flat&logo=instagram)](https://instagram.com/nakulasyafa_)
+[![Instagram](https://img.shields.io/badge/Instagram-@nakulasyafa_-E4405F?style=flat&logo=instagram)](https://instagram.com/nakulasyafa_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nklasyfa-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nklasyfa)
 
 ## 📫 Hubungi Saya
