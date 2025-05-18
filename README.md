@@ -22,5 +22,5 @@
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nklasyfa&theme=onedark&column=4&margin-w=15)](https://github.com/Nklasyfa)
 
 ### 📫 **Hubungi Saya**
-[![Gmail](https://img.shields.io/badge/Email-nklasyfa%40gmail.com-D14836?style=flat&logo=gmail)](mailto:nklasyfa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-nakulasaputra08%40gmail.com-D14836?style=flat&logo=gmail)](mailto:nakulasaputra08@gmail.com)
 
