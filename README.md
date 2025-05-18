@@ -1,10 +1,5 @@
-# 🚀 Halo, Saya Nklasyfa! 
+# 🚀 Yoooo, Kenalin Gua Nakula Sang Progamer Pemula! 
 
-[![Instagram](https://img.shields.io/badge/Instagram-@nklasyfa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nklasyfa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nklasyfa-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nklasyfa)
-[![YouTube Video](https://img.shields.io/badge/Video_Demo-Proyek_Terbaru-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/example-link)
-
-## 💻 *Java & Python Developer* | ☕ *Open Source Contributor*
 
 <div align="center">
   <a href="https://youtu.be/example-link">
@@ -14,14 +9,27 @@
 
 ---
 
-### 🛠️ **Teknologi Andalan**
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-flat&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-flat&logo=spring&logoColor=white)
 
 ### 📊 **Aktivitas Coding**
-[![Contribution Snake](https://github.com/Nklasyfa/Nklasyfa/blob/output/github-contribution-grid-snake.svg)](https://github.com/Nklasyfa)
+uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
 
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nklasyfa&show_icons=true&theme=radical)](https://github.com/Nklasyfa)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nklasyfa&layout=compact&theme=radical)](https://github.com/Nklasyfa)
 
