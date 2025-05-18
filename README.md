@@ -1,7 +1,5 @@
 # 👋 Halo, Kenalin Saya Nakula, Progamer Pemula!
-
 [![GitHub Activity Snake](https://github.com/Nklasyfa/Nklasyfa/blob/output/github-contribution-grid-snake.svg)](https://github.com/Nklasyfa)
-
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nklasyfa&row=2&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/Nklasyfa)
 
