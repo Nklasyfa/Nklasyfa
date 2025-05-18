@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-flat&logo=spring&logoColor=white)
 
 ### 📊 **Aktivitas Coding**
-[![Contribution Snake](github-user-contribution.svg)](https://github.com/Nklasyfa)
+[![Contribution Snake](https://github.com/Nklasyfa/Nklasyfa/blob/output/dist/github-contribution-grid-snake.svg)](https://github.com/Nklasyfa)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nklasyfa&show_icons=true&theme=radical)](https://github.com/Nklasyfa)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nklasyfa&layout=compact&theme=radical)](https://github.com/Nklasyfa)
