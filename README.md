@@ -1,4 +1,4 @@
-# 🚀 Halooo, Kenalin Gua Nakula Progamer Pemula! 
+# 🚀 Halooo, Kenalin Gua Nakula.
 [![Instagram](https://img.shields.io/badge/Instagram-@nakulasyafa_-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/nakulasyafa_?igsh=MWN3ZDBvenZwbWtkdw==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NakulaSaputra-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nakula-saputra-2146512b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
