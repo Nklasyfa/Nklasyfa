@@ -1,4 +1,4 @@
-# Halooo, Kenalin Gua Nakula.
+# Halooo, Kenalin Saya Nakula.
 ### About Me
 I am a student from Surabaya State University majoring in Informatics and I am now only in the second semester of my studies.
 
